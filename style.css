@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    text-align: left;
+}
+.main {
+    display: block;
+    height: 300px;
+    width: 300px;
+    background-color: blanchedalmond;
+    padding: 5px;
+    border: 4px dashed goldenrod
+
+    
+
+}
+ul {
+    list-style-type: square;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.recipeheader {
+    background-color: goldenrod;
+    color: white;
+    text-align: center;
+}
+
+li {
+    font-weight: 800;
+    display: block;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background-color: gold;
+}
